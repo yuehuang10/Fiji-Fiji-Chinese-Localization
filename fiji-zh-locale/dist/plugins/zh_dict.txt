@@ -1,0 +1,841 @@
+# Fiji 汉化扩展词典（英文<TAB>中文）。由 Zh_Locale 插件在启动时加载。
+# 类型/位深
+16-bit	16 位
+32-bit	32 位
+8-bit	8 位
+8-bit Color	8 位彩色
+# Image 菜单
+3D Project...	3D 投影...
+3D Viewer	3D 查看器
+2D Histogram	2D 直方图
+In [+]	放大 [+]
+Out [-]	缩小 [-]
+View 100%	100% 视图
+Original Scale	原始比例
+# 变换
+Flip Horizontally	水平翻转
+Flip Vertically	垂直翻转
+Flip Z	Z 轴翻转
+Rotate 90 Degrees Right	右旋 90 度
+Rotate 90 Degrees Left	左旋 90 度
+Rotate...	旋转...
+Translate...	平移...
+Bin...	像素合并...
+Image to Results	图像到结果表
+Results to Image	结果表到图像
+# 标注/绘图/视频
+Annotate	标注
+Drawing	绘图
+Video Editing	视频编辑
+Add Empty Frame	添加空帧
+Add Image...	添加图像...
+Add Noise	添加噪声
+Add Selection...	添加选区...
+Add Shortcut by Name...	按名称添加快捷键...
+Add Slice	添加切片
+Add Specified Noise...	添加指定噪声...
+Add to Manager	加入管理器
+Add...	添加...
+Delete Frame	删除帧
+Delete Slice	删除切片
+Duplicate Frame	复制帧
+Duplicate	复制
+Make Transition	制作过渡
+Time Lapse	延时序列
+Time Stamper	时间戳
+Deinterleave	去交织
+Interleave	交织
+Open Video	打开视频
+New Video	新建视频
+# 分析
+Analyse Particles	分析粒子
+Analyze Skeleton (2D/3D)	骨架分析 (2D/3D)
+Analyze...	分析...
+Analyze Particles...	分析粒子...
+Particle Analyzer (3D)	3D 粒子分析器
+Stop Analyse Particles (kills the threads)	停止粒子分析(终止线程)
+Set Measurements...	测量设置...
+Set Scale...	设置标尺...
+Calibrate...	校准...
+Clear Results	清除结果表
+Summarize	汇总
+Distribution...	分布图...
+Plot Profile	绘制轮廓线图
+Plot Z-axis Profile	Z 轴轮廓图
+Plot XY Profile	绘制 XY 轮廓
+Plot Results	绘制结果表
+Plot Lanes	绘制泳道图
+Re-plot Lanes	重绘泳道图
+Select First Lane	选择第一条泳道
+Select Next Lane	选择下一条泳道
+Label Peaks	标注峰值
+Gel Analyzer Options...	凝胶分析选项...
+Custom Measurement	自定义测量
+Helmholtz Analysis	Helmholtz 分析
+Colocalization	共定位分析
+Colocalization Test	共定位检验
+Colocalization Threshold	共定位阈值
+Statistics	统计
+Curve Fitting	曲线拟合
+Curve Fitting...	曲线拟合...
+Sync Measure 3D	3D 同步测量
+Sync Measure 3D...	3D 同步测量...
+Fractal Box Count...	分形盒计数...
+Surface Plot...	曲面图...
+3D Surface Plot	3D 曲面图
+# 处理
+Smooth	平滑
+Smooth (3D)	平滑 (3D)
+Sharpen	锐化
+Find Edges	查找边缘
+Find Maxima...	查找极大值...
+Enhance Contrast	增强对比度
+Enhance Contrast...	增强对比度...
+Enhance Local Contrast (CLAHE)	局部对比度增强 (CLAHE)
+Normalize Local Contrast	局部对比度归一化
+Anisotropic Diffusion 2D	2D 各向异性扩散
+Bilateral Filter	双边滤波
+Kuwahara Filter	Kuwahara 滤波
+Linear Kuwahara	线性 Kuwahara 滤波
+Kalman Stack Filter	Kalman 堆栈滤波
+Retinex	Retinex 增强
+ROF Denoise	ROF 去噪
+Statistical Region Merging	统计区域合并
+Graph Cut	图割
+Level Sets	水平集
+Quantile Based Normalization	分位数归一化
+Integral Image Filters	积分图滤波器
+Despeckle	去斑
+Remove Outliers	去除离群点
+Remove Outliers...	去除离群点...
+Salt and Pepper	椒盐噪声
+Add Noise	添加噪声
+Bleach Correction	漂白校正
+Convolve (3D)	卷积 (3D)
+Convolve...	卷积...
+Custom Filter...	自定义滤波器...
+FFT Filter	FFT 滤波器
+FFT Options...	FFT 选项...
+Inverse FFT	逆傅里叶变换
+Redisplay Power Spectrum	重新显示功率谱
+Bandpass Filter...	带通滤波器...
+Fast FFT (2D/3D)	快速 FFT (2D/3D)
+IFT (3D)	逆 FFT (3D)
+Gaussian Blur 3D...	3D 高斯模糊...
+Gaussian Blur...	高斯模糊...
+Median 3D...	3D 中值...
+Mean 3D...	3D 均值...
+Minimum 3D...	3D 最小值...
+Maximum 3D...	3D 最大值...
+Variance 3D...	3D 方差...
+Erode	腐蚀
+Erode (3D)	腐蚀 (3D)
+Dilate	膨胀
+Dilate (3D)	膨胀 (3D)
+Rebin (3D)	重分箱 (3D)
+Gradient (3D)	梯度 (3D)
+Laplace (3D)	拉普拉斯 (3D)
+Max (3D)	最大 (3D)
+Top Hat...	顶帽滤波...
+Unsharp Mask...	非锐化掩模...
+Image Calculator...	图像计算器...
+Subtract Background...	减去背景...
+Math	数学运算
+Abs	绝对值
+Exp	指数
+Reciprocal	倒数
+Square Root	平方根
+Log...	对数...
+Add...	添加...
+Subtract...	减...
+Multiply...	乘...
+Divide...	除...
+AND...	与...
+OR...	或...
+XOR...	异或...
+Max...	最大值...
+Min...	最小值...
+Binary	二值化
+Make Binary	转为二值图
+Convert to Mask	转换为掩膜
+Create Mask	创建掩膜
+Fill Holes	填充孔洞
+Fill ROI holes	填充 ROI 孔洞
+Watershed	分水岭
+Distance Map	距离图
+Ultimate Points	终极点
+Voronoi	Voronoi 剖分
+Delaunay Voronoi	Delaunay-Voronoi 剖分
+Skeletonize	骨架化
+Skeletonize (2D/3D)	骨架化 (2D/3D)
+Skeleton	骨架
+Local Thickness	局部厚度
+Distance Transform 3D	3D 距离变换
+Distance Map to Distance Ridge	距离图转距离脊
+Distance Ridge to Local Thickness	距离脊转局部厚度
+Geometry to Distance Map	几何转距离图
+Exact Euclidean Distance Transform (3D)	精确欧氏距离变换 (3D)
+Exact Signed Euclidean Distance Transform (3D)	精确有符号欧氏距离变换 (3D)
+Tubeness	管状度滤波
+Surfaceness	表面度滤波
+Ridge Detection	脊线检测
+Frangi Vesselness (imglib, experimental)	Frangi 血管增强 (imglib 实验版)
+Gray Morphology	灰度形态学
+Gray Morphology...	灰度形态学...
+Morphology	形态学
+Find Connected Regions	查找连通区域
+Robust Automatic Threshold Selection	鲁棒自动阈值选择
+Triangle Algorithm	三角法阈值
+Auto Threshold	自动阈值
+Auto Local Threshold	局部自动阈值
+Auto Crop	自动裁剪
+Auto Crop (guess background color)	自动裁剪(猜测背景色)
+Select Bounding Box	选择包围盒
+Select Bounding Box (guess background color)	选择包围盒(猜测背景色)
+SIOX: Simple Interactive Object Extraction	SIOX 简易交互式对象提取
+Apply saved SIOX segmentator	应用已保存的 SIOX 分割器
+Trainable Segmentation	可训练分割
+Trainable Segmentation 2D	可训练分割 2D
+Trainable Weka Segmentation	可训练 Weka 分割
+Trainable Weka Segmentation 3D	可训练 Weka 分割 3D
+Advanced Weka Segmentation	高级 Weka 分割
+IsoData Classifier	IsoData 分类器
+Segmentation	分割
+Segmentation Editor	分割编辑器
+Image Expression Parser	图像表达式解析器
+Image Expression Parser (Macro)	图像表达式解析器 (宏)
+Calculator Plus	计算器增强版
+Multiple Image Processor	多图像处理器
+Process Folder	处理文件夹
+Batch Processing	批处理
+# 配准/拼接/跟踪
+Registration	配准
+Rigid Registration	刚性配准
+Align Image by line ROI	按线 ROI 对齐图像
+Bead-based registration	基于标记珠的配准
+Descriptor-based registration (2d/3d)	基于描述子的配准 (2d/3d)
+Descriptor-based series registration (2d/3d + t)	基于描述子的序列配准 (2d/3d + t)
+Detect Interest Points for Registration	检测配准兴趣点
+Extract SIFT Correspondences	提取 SIFT 对应点
+Extract MOPS Correspondences	提取 MOPS 对应点
+Extract Block Matching Correspondences	提取块匹配对应点
+Register Virtual Stack Slices	配准虚拟堆栈切片
+Register Dataset based on Interest Points	基于兴趣点配准数据集
+Transform Virtual Stack Slices	变换虚拟堆栈切片
+Linear Stack Alignment with SIFT	基于 SIFT 的线性堆栈对齐
+Elastic Montaging	弹性蒙太奇对齐
+Elastic Stack Alignment	弹性堆栈对齐
+Interactive Affine	交互仿射
+Interactive Rigid	交互刚性
+Interactive Similarity	交互相似变换
+Interactive Perspective	交互透视
+Interactive Moving Least Squares	交互移动最小二乘
+Interactive Thin Plate Spline	交互薄板样条
+Interactive Stack Rotation	交互堆栈旋转
+Distortion Correction	畸变校正
+Landmarks	标志点
+Landmark Correspondences	标志点对应
+Name Landmarks and Register	命名标志点并配准
+Remove Detections Interactively	交互式删除检测
+Remove Detections by Distance	按距离删除检测
+Visualize Detections	可视化检测结果
+Fuse/Deconvolve Dataset	融合/解卷积数据集
+Reconstruct Dataset	重建数据集
+Multi-view deconvolution	多视图解卷积
+Multi-view fusion	多视图融合
+Multiview Reconstruction	多视图重建
+MultiView Reconstruction Application	多视图重建应用
+Define Multi-View Dataset	定义多视图数据集
+SPIM Registration	SPIM 配准
+Big Warp	Big Warp 配准
+Big Warp Apply	应用 Big Warp
+Big Warp to Displacement field	Big Warp 转位移场
+Stitching	图像拼接
+Grid/Collection stitching	网格/集合拼接
+Pairwise stitching	两两拼接
+Stitch Grid of Images	拼接图像网格
+Stitch Collection of Images	拼接图像集合
+Stitch Sequence of Grids of Images	拼接网格图像序列
+Stitch Multiple Series or Tile Scan File	拼接多序列或 Tile 扫描文件
+Stitch Directory with Images (unknown configuration)	拼接图像目录(未知配置)
+Tracking	跟踪
+Manual Tracking	手动跟踪
+Manual tracking with TrackMate	用 TrackMate 手动跟踪
+Feature Extraction	特征提取
+Moving Least Squares	移动最小二乘
+# 颜色
+Color Balance...	色彩平衡...
+Color Clustering	颜色聚类
+Color Histogram	颜色直方图
+Color Histogram...	颜色直方图...
+Color Inspector 3D	3D 颜色检查器
+Color Picker...	取色器...
+Color Threshold...	颜色阈值...
+Colors...	颜色...
+Colour Deconvolution	颜色解卷积
+Average Color	平均颜色
+RGB Color	RGB 彩色
+RGB Stack	RGB 堆栈
+HSB Stack	HSB 堆栈
+Lab Stack	Lab 堆栈
+RGB to CIELAB	RGB 转 CIELAB
+RGB to Luminance	RGB 转亮度
+Stack to RGB	堆栈转 RGB
+Replace Red with Magenta	红色替换为洋红
+Replace Red with Magenta (system clipboard)	红色替换为洋红 (系统剪贴板)
+Red/Green	红/绿
+Split Channels	拆分通道
+Merge Channels...	合并通道...
+Arrange Channels...	排列通道...
+Transfer Channel Settings	转移通道设置
+Set Channel Display	设置通道显示
+Set Channel Labels	设置通道标签
+Channels Tool...	通道工具...
+Make Composite	合成通道
+Display LUTs	显示 LUT
+Apply LUT	应用 LUT
+Show LUT	显示 LUT
+Show all LUTs	显示全部 LUT
+Invert LUT	反转 LUT
+Invert LUTs	反转全部 LUT
+Edit LUT...	编辑 LUT...
+Make Inverse	制作反转 LUT
+Grab Viridis Colormap	抓取 Viridis 颜色表
+Dichromacy	二色视觉模拟
+Simulate Color Blindness	模拟色盲
+Rainbow RGB	彩虹 RGB
+HiLo	HiLo 显示
+Red	红
+Green	绿
+Blue	蓝
+Cyan	青
+Magenta	洋红
+Yellow	黄
+Red Hot	红热 LUT
+Green Fire Blue	绿火蓝 LUT
+Cyan Hot	青热 LUT
+Magenta Hot	洋红热 LUT
+Orange Hot	橙热 LUT
+Yellow Hot	黄热 LUT
+Fire	火焰 LUT
+Ice	冰蓝 LUT
+Thermal	热成像 LUT
+Spectrum	光谱 LUT
+Grays	灰度 LUT
+# 堆栈/超堆栈
+Hyperstack to Stack	超堆栈转堆栈
+Stack to Hyperstack...	堆栈转超堆栈...
+Stack to Images	堆栈转多图
+Images to Stack	多图转堆栈
+Stack From List...	从列表创建堆栈...
+Montage to Stack...	蒙太奇转堆栈...
+Make Montage	制作蒙太奇
+Make Montage...	制作蒙太奇...
+Make Substack...	制作子堆栈...
+Make Subset...	制作子集...
+Concatenate...	连接堆栈...
+Combine...	合并堆栈...
+Insert Stack	插入堆栈
+Insert...	插入...
+Reslice Z	Z 轴重切片
+Reslice [/]...	重切片 [/]...
+Dynamic Reslice	动态重切片
+Radial Reslice	径向重切片
+Slice Keeper	保留切片
+Slice Remover	删除切片
+Stack Slicer	堆栈切片器
+Stack Sorter	堆栈排序器
+Stack Splitter	堆栈拆分器
+Stack Overlay	堆栈叠加
+Stack Difference	堆栈差分
+Z Project	Z 投影
+Z Project...	Z 投影...
+Grouped Z Project...	分组 Z 投影...
+Set Position	设置位置
+Set Slice...	设置切片...
+Start Animation [\]	播放动画 [\]
+Stop Animation	停止动画
+Animation	动画
+Animation Options...	动画选项...
+Next Slice [>]	下一切片 [>]
+Previous Slice [<]	上一切片 [<]
+Orthogonal Views	正交视图
+Volume Viewer	体积查看器
+Volume Calculator	体积计算器
+Volume Reconstructor	体积重建器
+Spheres and Tubes in 3D	3D 球体与管道
+Segment blob in 3D Viewer	在 3D 查看器中分割团块
+Test Java3D	测试 Java3D
+Test Marching Cubes	测试移动立方体
+Show Color Surfaces	显示彩色曲面
+Show Amira Surface	显示 Amira 曲面
+Compute Topography	计算地形
+Shape Index Map	形状指数图
+3D Objects Counter	3D 物体计数
+3D OC Options	3D 物体计数选项
+Re-order Hyperstack ...	重排超堆栈 ...
+New Hyperstack...	新建超堆栈...
+Hyperstack...	超堆栈...
+# Image5D
+New Image5D	新建 Image5D
+Open Image5D	打开 Image5D
+Save Image5D	保存 Image5D
+Stack to Image5D	堆栈转 Image5D
+Image5D to Stack	Image5D 转堆栈
+RGB to Image5D	RGB 转 Image5D
+Image5D Stack to RGB	Image5D 堆栈转 RGB
+Open Series As Image5D	按系列打开为 Image5D
+Virtual Image5D Opener	虚拟 Image5D 打开器
+Image5D Extensions	Image5D 扩展
+Image5D...	Image5D...
+# 虚拟堆栈/大文件
+Fast VirtualStack Opener	快速虚拟堆栈打开器
+Terabyte VirtualStack	TB 级虚拟堆栈
+TIFF Virtual Stack...	TIFF 虚拟堆栈...
+Virtual Stack...	虚拟堆栈...
+Open VirtualStack	打开虚拟堆栈
+Hypervolume Opener	超大体积打开器
+Cache Sample Images	缓存示例图像
+Resample	重采样
+Resave	另存
+As TIFF	存为 TIFF
+As HDF5	存为 HDF5
+# 选区/ROI
+Selection...	选区...
+Create Selection	创建选区
+Restore Selection	恢复选区
+Select All	全选
+Select None	取消选择
+To Selection	转到选区
+Image to Selection...	图像转选区...
+Area to Line	区域转线
+Line to Area	线转区域
+Convex Hull	凸包
+Fit Spline	拟合样条
+Fit Circle	拟合圆
+Fit Circle to Image	图像拟合圆
+Fit Ellipse	拟合椭圆
+Fit Rectangle	拟合矩形
+Make Band...	制作条带...
+Make Circular Selection...	制作圆形选区...
+Make rectangular selection rounded	矩形选区圆角化
+Annular Selection	环形选区
+Specify...	指定...
+Straighten...	拉直...
+Rotate...	旋转...
+Enlarge...	放大...
+To Bounding Box	转包围盒
+Define Bounding Box	定义包围盒
+ROI Manager...	ROI 管理器...
+Roi Defaults...	ROI 默认设置...
+Draw Roi	绘制 ROI
+Move Roi	移动 ROI
+Points from Mask	从掩膜生成点
+Mask Of Nearby Points	邻近点掩膜
+Show Circular Masks...	显示圆形掩膜...
+# 工具
+Point Tool...	点工具...
+Wand Tool...	魔棒工具...
+Arrow Tool...	箭头工具...
+Arrow	箭头
+Star Tool	星形工具
+Circle Tool	圆形工具
+Circle Interpolator	圆插值
+Blow/Lasso Tool	吹泡/套索工具
+Rounded Rect Tool...	圆角矩形工具...
+Big Cursor	大光标
+Animated Icon Tool	动画图标工具
+Turtle Graphics	海龟绘图
+# 叠加/标注
+Overlay Text	叠加文字
+Overlay Options...	叠加选项...
+Show Overlay	显示叠加
+Hide Overlay	隐藏叠加
+Toggle Overlay	切换叠加
+Remove Overlay	移除叠加
+Multi Overlay	多重叠加
+Measure Overlay	测量叠加层
+Image with Overlay	带叠加的图像
+Flatten	拼合图层
+Scale Bar...	比例尺...
+Grid...	网格...
+Calibration Bar...	标尺条...
+Shadows	阴影
+Shadows Demo	阴影示例
+Shapes	形状
+Label	标签
+Label...	标注...
+Labels...	标签...
+Set Label...	设置标签...
+Remove Slice Labels	移除切片标签
+Series Labeler	序列标注器
+Multi Kymograph	多通道时空图
+Specify Calibration	指定标定
+Set...	设置...
+Set Drawing Color...	设置绘制颜色...
+Text...	文字...
+# 窗口/杂项
+Log	日志
+Text Window	文本窗口
+Text Window...	文本窗口...
+Text File...	文本文件...
+Text Image...	文本图像...
+Main Window [enter]	主窗口 [enter]
+Maximize	最大化
+Cascade	层叠窗口
+Tile	平铺窗口
+Show All	显示全部
+Synchronize Windows	同步窗口
+Sync Windows	同步窗口
+Sync Windows...	同步窗口...
+Memory & Threads...	内存与线程...
+Threads	线程
+Monitor Memory...	内存监控...
+Monitor Events...	监控事件...
+Thread killer	线程终结者
+Collect Garbage	垃圾回收
+Proxy Settings...	代理设置...
+Input/Output...	输入/输出...
+Conversions...	转换...
+Compiler...	编译器...
+Appearance...	外观...
+Fonts...	字体...
+Misc...	杂项...
+Page Setup...	页面设置...
+Print...	打印...
+Capture Delayed...	延时截屏...
+Capture Image	截取图像
+Capture Screen	截取屏幕
+Internal Clipboard	内部剪贴板
+System Clipboard	系统剪贴板
+Non-numeric Table	非数值表格
+Table...	表格...
+Results...	结果表...
+Raw Data...	原始数据...
+Raw...	RAW...
+Image Sequence...	图像序列...
+Open Next	打开下一张
+Open Recent	最近打开
+Save All Images	保存全部图像
+Save XY Coordinates...	保存 XY 坐标...
+Save As JPEG... [j]	另存为 JPEG... [j]
+Scale to Fit	缩放至适配
+Plot Styles	绘图样式
+Plots	图表
+Plots...	图表...
+Bar Charts	柱状图
+Histogram Plots	直方图绘图
+Histograms	直方图
+Semi-log Plot	半对数图
+Damped Wave Plot	阻尼波绘图
+Dynamic Plot	动态绘图
+Dynamic Plot 2D	动态绘图 2D
+Example Plot	示例绘图
+Plot Random Data	绘制随机数据
+Random Data	随机数据
+Arrow Plot	箭头图
+Custom Plot Symbols	自定义绘图符号
+Plot With Spectrum	带光谱绘图
+Synthetic Images	合成图像
+# 宏/脚本/开发
+Macro	宏
+Macro...	宏...
+Macro Tool	宏工具
+Macro Functions...	宏函数...
+Startup Macros...	启动宏...
+About Startup Macros...	关于启动宏...
+Compile and Run...	编译并运行...
+Interactive Interpreter...	交互解释器...
+Plugin	插件
+Plugin Filter	Plugin Filter 模板
+Plugin Frame	Plugin Frame 模板
+Plugin Tool	Plugin Tool 模板
+Find Commands...	查找命令...
+List Commands	列出命令
+List Elements	列出元素
+List Shortcuts	列出快捷键
+Repeat Command	重复上一命令
+Repeat a Recent Command	重复最近命令
+Commands...	命令...
+Scripting	脚本
+About...	关于...
+Help...	帮助...
+Home	主页
+Fresh Start	重新开始
+Report a Bug	报告缺陷
+Release Notes...	发行说明...
+Update ImageJ...	更新 ImageJ...
+New Fiji News	Fiji 新闻
+New Fiji Tutorial	Fiji 教程
+New Fiji Wiki Screenshot	Fiji Wiki 截图
+Upload Image to Fiji Wiki	上传图像到 Fiji Wiki
+Help on Menu Item	菜单项帮助
+About TrakEM2...	关于 TrakEM2...
+About bUnwarpJ...	关于 bUnwarpJ...
+About/Help LSMToolbox	LSMToolbox 关于/帮助
+ImageJ Properties	ImageJ 属性
+Inspect Java Objects	检查 Java 对象
+Event Listener	事件监听器
+Visual grep	可视化 grep
+Debugging	调试
+Cloud Debugger	云调试器
+IJ Robot	IJ 机器人
+Stress Test	压力测试
+Dialog Demo	对话框示例
+Dialog Box	对话框
+OpenDialog Demo	打开对话框示例
+Dual Progress Bars	双进度条
+Easter Eggs	彩蛋
+Plasma Cloud	等离子云
+Reset	重置
+Unlock	解锁
+Search...	搜索...
+# ===== 第二批补充（来自 zh_missing.txt 实测清单）=====
+Brightness/Contrast...	亮度/对比度...
+Window/Level...	窗口/色阶...
+Gamma...	伽马...
+Gamma Adjuster	伽马调节器
+Threshold...	阈值...
+Measure...	测量...
+Measure Stack...	测量堆栈...
+Size...	尺寸...
+Canvas Size...	画布大小...
+Coordinates...	坐标...
+Line Graph	折线图
+Line Width...	线宽...
+Outline	轮廓化
+Reverse	反转
+Swap Quadrants	交换象限
+East	东
+West	西
+North	北
+South	南
+Northeast	东北
+Northwest	西北
+Southeast	东南
+Southwest	西南
+Mean	均值
+Median	中值
+Mean...	均值...
+Median...	中值...
+Maximum...	最大值...
+Minimum...	最小值...
+Variance...	方差...
+Maximum (3D)	3D 最大值
+Minimum (3D)	3D 最小值
+Median (3D)	3D 中值
+Average Images	图像平均
+Apply Transformations	应用变换
+Apply external transformation	应用外部变换
+Duplicate Transformations	复制变换
+Compute Curvatures	计算曲率
+Directionality	方向性分析
+Crop (3D)	3D 裁剪
+Crop Multiple Rois	裁剪多个 ROI
+Flood Fill(3D)	3D 泛洪填充
+Interpolate	插值
+Elastic	弹性形变
+Reduce...	缩减...
+Reduce Dimensionality...	降维...
+Remove NaNs...	移除 NaN...
+Remove Slope	去除斜率
+Replace value	替换数值
+Find differences	查找差异
+Gaussian-based stack focuser	基于高斯的堆栈聚焦
+Implicit Interpolate Binary	隐式二值插值
+Spline Deformation Generator	样条形变生成器
+Spiral Rotation	螺旋旋转
+Phase Map	相位图
+Particles	粒子
+Gel	凝胶
+MRI Stack	MRI 堆栈
+Linear Gradient	线性渐变
+Radial Gradient	径向渐变
+2D Stitching	2D 拼接
+3D Stitching	3D 拼接
+Coloc 2	共定位 2
+Classification	分类
+Combine Profile Stacks	合并轮廓堆栈
+Correct Particles Drift (based on ROI)	按 ROI 校正粒子漂移
+Create 3D calibration (requires astigmatism)	创建 3D 标定(需像散)
+Manual landmark selection (3d)	手动选取标志点 (3d)
+Sine/Cosine Table	正弦/余弦表
+Array Functions	数组函数
+Standard Deviation	标准差
+Sample Variance	样本方差
+NaN Background	NaN 背景
+Save Inverted FITS	保存反转 FITS
+Make Fiji Package	制作 Fiji 包
+Exif Data...	EXIF 信息...
+Extract Images From PDF...	从 PDF 提取图像...
+JPEG Quality Plot	JPEG 质量图
+URL...	网址...
+Open	打开
+Image...	图像...
+Open as Panel	面板方式打开
+Show Folder	显示文件夹
+Show label centers	显示标签中心
+Display View	显示视图
+Panorama equirectangular view	全景等距柱状视图
+Seam remover	接缝删除
+TEM Filter	TEM 滤波
+Walking Average	游动平均
+Z-Spacing Correction	Z 间距校正
+Magic Montage Tools	蒙太奇魔术工具
+LOI Interpolator	LOI 插值器
+LOI Interpolator Tool	LOI 插值工具
+LSM Toolbox	LSM 工具箱
+Show LSMToolbox	显示 LSMToolbox
+Cell Counter	细胞计数
+Shape-Based Averaging (Experimental)	基于形状的平均 (实验)
+Shape-based averaging	基于形状的平均
+Test Block Matching Parameters	测试块匹配参数
+Update Bio-Formats Plugins	更新 Bio-Formats 插件
+Update QuickPALM	更新 QuickPALM
+About This Submenu...	关于此子菜单...
+Autorun Examples	自动运行示例
+Dev. Resources...	开发者资源...
+Examples	示例
+Optic Flow	光流
+PIV analysis	PIV 分析
+Animated Gaussian Blur	动画演示高斯模糊
+CPU Meter	CPU 监视器
+Benchmark	基准测试
+Balloon	气球提示
+HSB (32-bit)	HSB (32 位)
+16 colors	16 色
+5 ramps	5 渐变
+6 shades	6 灰阶
+LUT...	LUT...
+LUTs	LUT 列表
+Merge Cluster Jobs	合并集群任务
+Start Cluster...	启动集群...
+Test Cluster	测试集群
+Toggle Cluster Processing	切换集群处理
+Attach to Cluster...	附加到集群...
+Sphere	球体
+Square	方形
+Points	点集
+Gaussian Window MSE	高斯窗口 MSE
+Integral Block MSE	积分块 MSE
+Integral Block PMCC	积分块 PMCC
+# ===== 第三批补充（右侧 ImageJ2 菜单栏与 TrakEM2 等）=====
+*recent commands	最近命令
+Add Popup Split Channels	添加弹出项 拆分通道
+Antialiased	抗锯齿
+AutoRun	自动运行
+Axes	坐标轴
+Big Warp Command	Big Warp 命令
+Big Warp XML/HDF5	Big Warp XML/HDF5
+Browse BigDataServer	浏览 BigDataServer
+Check Required Update Sites	检查所需更新站点
+Console	控制台
+Convert...	转换...
+Correct 3D drift	校正 3D 漂移
+Cover Maker	封面制作器
+CoverMaker	封面制作器
+Create Desktop Icon	创建桌面图标
+Create XML for Imaris file	为 Imaris 文件创建 XML
+Debug	调试
+Delayed Snapshot	延时快照
+Delayed Snapshot Window	延时快照窗口
+Deprecated	已弃用
+Dialog Prompt Demo	对话框提示示例
+Dump Stack	转储堆栈
+Dynamic ROI Profiler	动态 ROI 剖面
+Edit LUT As Text	以文本编辑 LUT
+Export Current Image as XML/HDF5	导出当前图像为 XML/HDF5
+Export Current Image as XML/N5	导出当前图像为 XML/N5
+Export Fused Sequence as XML/HDF5	导出融合序列为 XML/HDF5
+Export Spim Sequence as XML/HDF5	导出 SPIM 序列为 XML/HDF5
+Export CellVoyager dataset as XML/HDF5	导出 CellVoyager 数据集为 XML/HDF5
+Extended Profile Plot	扩展轮廓图
+Find Dimension of Raw Image	查找原始图像尺寸
+Find Jar For Class	查找类的 Jar
+Find Next	查找下一个
+Find Ops...	查找操作...
+Find...	查找...
+Fix Funny Filenames	修正异常文件名
+Focus Search Bar	聚焦搜索栏
+Font	字体
+Monospaced	等宽字体
+Frangi Vesselness	Frangi 血管增强
+Homogenize Ball Radius	均匀球半径
+Image To Tool Icon	图像转工具图标
+Inspect Objects	检查对象
+Kappa - Curvature Analysis	Kappa 曲率分析
+Kymograph	时空图
+Linear Stack Alignment with SIFT MultiChannel	基于 SIFT 的多通道线性堆栈对齐
+Look and Feel...	外观风格...
+Macro Recordable	可录制宏
+Make Screencast	制作屏幕录像
+Make Text Larger	增大文字
+Make Text Smaller	减小文字
+Mandelbrot Set	曼德博集合
+Manual Threshold	手动阈值
+Measure AreaLists	测量区域列表
+Measure Connected Components	测量连通分量
+Multithreaded Image Processing	多线程图像处理
+Multithreaded Image Processing in Javascript	多线程图像处理 (Javascript)
+Open Current Image	打开当前图像
+Open Current Image With Labkit	用 Labkit 打开当前图像
+Open Image File With Labkit	用 Labkit 打开图像文件
+Open Imaris	打开 Imaris
+Open XML/HDF5	打开 XML/HDF5
+Prepare Cover Maker Database	准备封面制作数据库
+Read Displacement Field	读取位移场
+Write Displacement Field	写入位移场
+Record Desktop	录制桌面
+Record Window	录制窗口
+Run Script from File	从文件运行脚本
+Run Script from Menu	从菜单运行脚本
+Same Slice in Multiple Images	多图像同一切片
+Sandbox	沙盒
+Save As...	另存为...
+Save Settings	保存设置
+Scale to DPI	按 DPI 缩放
+Script Interpreter	脚本解释器
+Script...	脚本...
+Search Bar...	搜索栏...
+Segment Image With Labkit	用 Labkit 分割图像
+Segment Image With Labkit (IJ1)	用 Labkit 分割图像 (IJ1)
+Segment Images in Directory with Labkit	用 Labkit 分割目录中的图像
+Calculate Probability Map With Labkit	用 Labkit 计算概率图
+Calculate Probability Map With Labkit (IJ1)	用 Labkit 计算概率图 (IJ1)
+Calculate Probability Map for Images in Directory with Labkit	用 Labkit 计算目录图像的概率图
+Set Active Axis...	设置活动轴...
+Set Color By Wavelength	按波长着色
+Spirals	螺旋线
+Straight Lines	直线
+Striped Circles	条纹圆
+System Information	系统信息
+T2 Select All	T2 全选
+T2 set all transforms to identity	T2 复位全部变换
+Task Monitor Bar...	任务监视栏...
+Temporal-Color Code	时间彩色编码
+The Hue Game	色调游戏
+Update...	更新...
+Upload Sample Image...	上传示例图像...
+Visualize OME Metadata	可视化 OME 元数据
+Volume Rendering Tech Demo	体渲染技术演示
+Watch Events	监视事件
+Configure TrackMate Conda path...	配置 TrackMate Conda 路径...
+Configure TrackMate display settings...	配置 TrackMate 显示设置...
+blend two images	混合两幅图像
+celsius to fahrenheit	摄氏转华氏
+chess	棋盘
+compose rgb-stacks	合成 RGB 堆栈
+downsample	降采样
+extract stack under arealist	提取区域列表下的堆栈
+list all threads	列出所有线程
+random noise example	随机噪声示例
+start viewer	启动查看器
+3-3-2 RGB	3-3-2 RGB
+Command Launchers	命令启动器
+Command Launcher BeanShell	命令启动器 BeanShell
+Command Launcher Clojure	命令启动器 Clojure
+Command Launcher Javascript	命令启动器 Javascript
+Command Launcher Python	命令启动器 Python
+Command Launcher Ruby	命令启动器 Ruby
+Diagnostics	诊断
+Dump Stack	转储堆栈
